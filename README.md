@@ -1,3 +1,3 @@
 # github-tutorial
-Some info!
+Some information!
 Trying out Git and Github
